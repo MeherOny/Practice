@@ -8,3 +8,8 @@ Features:
 *Road trip
 *Amazing locations
 *Wide range of cuisines to try
+
+
+Vacation Time: Last week of December 2020
+Pro: Long uninterupted vacation
+Cons: Trip can be expensive
