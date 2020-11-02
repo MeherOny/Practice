@@ -11,5 +11,6 @@ Features:
 
 
 Vacation Time: Last week of December 2020
-Pro: Long uninterupted vacation
+
+Pros: Long uninterupted vacation
 Cons: Trip can be expensive
